@@ -1,0 +1,13 @@
+h1
+{
+   color: aqua;
+   background-color: blue;
+   border-radius: 10px;
+   display: inline;
+}
+h1:hover
+{
+    background-color: rgb(144, 144, 140);
+    color: maroon;
+    cursor: pointer;
+}   
